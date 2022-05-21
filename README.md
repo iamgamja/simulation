@@ -1,24 +1,7 @@
 # simulation
 
-## Project setup
-```
-npm install
-```
+A simulation.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Link
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://iamgamja.github.io/simulation/dist/
