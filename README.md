@@ -4,4 +4,4 @@ A simulation.
 
 ## Link
 
-https://iamgamja.github.io/simulation/dist/
+https://iamgamja.github.io/simulation/
